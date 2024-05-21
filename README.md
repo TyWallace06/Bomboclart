@@ -1,3 +1,2 @@
 # Bomboclart
 skibidi
-nig
